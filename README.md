@@ -1,4 +1,4 @@
-**# Banknote Authentication Using Logistic Regression
+# Banknote Authentication Using Logistic Regression
 
 ## Project Overview
 This project uses **Logistic Regression**, a machine learning algorithm, to classify banknotes as genuine or forged based on their numerical features.
